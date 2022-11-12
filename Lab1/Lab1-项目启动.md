@@ -55,7 +55,7 @@
 
 ### 要点概述
 
-![canvas](fig/canvas.png)
+![canvas](Lab1-项目启动/canvas.png)
 
 ### 要点介绍
 
@@ -259,7 +259,7 @@ WantWords 和 WantQuotes 作为清华大学自然语言处理与社会人文计�
 
 WantWords 和 WantQuotes 不对公众收费。
 
-###### 西窗烛
+###### ***西窗烛***
 
 西窗烛的收入主要由以下几部分构成：
 
