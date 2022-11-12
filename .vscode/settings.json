@@ -1,9 +1,0 @@
-{
-  "markdown-pdf.stylesRelativePathFile": true,
-  "markdown-pdf.styles": [
-    "g2.css"
-  ],
-  "markdown.styles": [
-    "g2.css"
-  ]
-}
