@@ -299,4 +299,13 @@ SWOT 分析（包含机会与威胁评估）中的所有评分项都需要【打
 ## 参考文献
 
 <!--整个评估阶段作业所引用的调研报告和新闻【不得少于 12 篇】，强烈建议【达到 30 篇】。-->
-
+[包永刚：双十一背后，藏了个价值千亿的AI推荐系统](https://t.cj.sina.com.cn/articles/view/2118746300/7e4980bc02001bv1m)
+[腾讯网：互联网平台创新：新技术将成为互联网营销引爆器｜报告研读](https://new.qq.com/rain/a/20201113A0C6ZR00)
+[李世默：中国以“开源精神”突破了政治和经济“孤立”，科技也一样](https://www.guancha.cn/LiShiMo/2021_07_31_601000_2.shtml)
+[2021心理健康观察：国家层面加大重视 近七成年轻人有焦虑情绪](https://new.qq.com/rain/a/20220126A0590R00)
+[我国人口发展呈现新特点与新趋势——第七次全国人口普查公报解读](http://www.stats.gov.cn/tjsj/sjjd/202105/t20210513_1817394.html)
+[任泽平：中国收入分配报告2021：现状与国际比较](https://new.qq.com/rain/a/20210918A0221K00)
+[国家统计局：2021年全国居民人均可支配收入35128元](https://new.qq.com/rain/a/20220228A03XZL00#:~:text=%E5%9B%BD%E5%AE%B6%E7%BB%9F%E8%AE%A1%E5%B1%802%E6%9C%8828%E6%97%A5%E5%8F%91%E5%B8%83%E7%9A%84%E3%80%8A2021%E5%B9%B4%E5%9B%BD%E6%B0%91%E7%BB%8F%E6%B5%8E%E5%92%8C%E7%A4%BE%E4%BC%9A%E5%8F%91%E5%B1%95%E7%BB%9F%E8%AE%A1%E5%85%AC%E6%8A%A5%E3%80%8B%E6%98%BE%E7%A4%BA%EF%BC%8C,2021%E5%B9%B4%EF%BC%8C%E5%85%A8%E5%B9%B4%E5%85%A8%E5%9B%BD%E5%B1%85%E6%B0%91%E4%BA%BA%E5%9D%87%E5%8F%AF%E6%94%AF%E9%85%8D%E6%94%B6%E5%85%A535128%E5%85%83%EF%BC%8C%E6%AF%94%E4%B8%8A%E5%B9%B4%E5%A2%9E%E9%95%BF9.1%25%EF%BC%8C%E6%89%A3%E9%99%A4%E4%BB%B7%E6%A0%BC%E5%9B%A0%E7%B4%A0%EF%BC%8C%E5%AE%9E%E9%99%85%E5%A2%9E%E9%95%BF8.1%25%E3%80%82)
+[CDA数据分析师：钱都去哪了？大数据解读年轻人的消费观](https://www.cda.cn/view/200525.html)
+[企业网D1net：消费互联网大势已去，产业互联网时代到来](https://developer.aliyun.com/article/845290)
+[[前瞻产业研究院]杜怡萱：十张图了解2021年中国互联网网民画像 城乡互联网普及率逐年上升](https://www.qianzhan.com/analyst/detail/220/211122-d7ba1282.html)
